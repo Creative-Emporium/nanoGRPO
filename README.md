@@ -5,7 +5,8 @@ A lightweight implementation of Group Relative Policy Optimization (GRPO) for la
 ![](./assets//ss.png)
 you can cooked you own tiny r1/o1
 
-
+Moved original code to [nanoArchive](./nanoArchive/),
+Makeing nanoGRPO more capable and faster.
 
 trained on 8gb rtx 4060 <br>
 after 120 steps
